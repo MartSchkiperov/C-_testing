@@ -1,1 +1,1 @@
-HINT: Just press . (dot symbol) for folder view
+HINT: Just press . (keyboard dot button) for folder view
